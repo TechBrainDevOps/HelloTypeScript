@@ -1,0 +1,22 @@
+{
+  "name": "hellotypescript",
+  "version": "1.0.0",
+  "description": "This is the TypeScript Application for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechBrainDevOps/HelloTypeScript.git"
+  },
+  "author": "Naoto Yamaguchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechBrainDevOps/HelloTypeScript/issues"
+  },
+  "homepage": "https://github.com/TechBrainDevOps/HelloTypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
